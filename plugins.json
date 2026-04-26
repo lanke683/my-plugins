@@ -1,6 +1,6 @@
 [
   {
     "name": "酷狗音乐",
-    "url": "https://fastly.jsdelivr.net/gh/lanke683/my-plugins@main/kugou.js"
+    "url": "https://raw.githubusercontent.com/lanke683/my-plugins/refs/heads/main/kugou.js"
   }
 ]
