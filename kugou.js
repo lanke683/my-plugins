@@ -348,9 +348,9 @@ async function importMusicSheet(urlLike) {
 module.exports = {
     platform: "酷狗",
     version: "0.1.5",
-    author: '猫头猫',
+    author: '苦瓜炒蛋',
     appVersion: ">0.1.0-alpha.0",
-    srcUrl: "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/kugou/index.js",
+    srcUrl: "https://fastly.jsdelivr.net/gh/lanke683/my-plugins@main/kugou.js",
     cacheControl: "no-cache",
     primaryKey: ["id", "album_id", "album_audio_id"],
     hints: {
